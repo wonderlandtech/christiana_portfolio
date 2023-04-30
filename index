@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/all.css">
+	<title>Portfolio Welcome</title>
+</head>
+<body>
+	<section class="con">
+		<div class="part1">
+			<h1>CHRISTIANA <br>LEIGH</h1>
+			<div class="lo">
+				<p class="menu" style="float: right; margin-right:20px ;">
+				<a href="index.html" class="form-link">Home</a>
+				<a href="about.html" class="form-link">About</a>
+				<a href="skill.html" class="form-link">Skill</a>
+				
+				<a href="contact.html" class="form-link">Contact</a>
+			</p>
+			</div>
+		</div>
+		<div class="part1"></div>
+	</section>
+</body>
+</html>
